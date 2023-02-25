@@ -1,0 +1,5 @@
+# ignoring the files in the root firectory
+/root/
+
+# excluding the repository from the ignore
+!alx-pre_course/
