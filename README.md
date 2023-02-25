@@ -1,2 +1,1 @@
-# My first readme
-## UPDATED successfuly
+My first readme
